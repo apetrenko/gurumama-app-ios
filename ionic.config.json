@@ -1,0 +1,8 @@
+{
+  "name": "gurumama-app-ios",
+  "app_id": "1b81560d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
